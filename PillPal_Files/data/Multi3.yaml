@@ -1,0 +1,22 @@
+names:
+- beige
+- blue
+- capsule
+- disk
+- large
+- medium
+- oblong
+- pill
+- red
+- small
+- white
+nc: 11
+roboflow:
+  license: CC BY 4.0
+  project: multi2-edaqq
+  url: https://universe.roboflow.com/180d-pill-dispenser/multi2-edaqq/dataset/4
+  version: 4
+  workspace: 180d-pill-dispenser
+test: ../test/images
+train: Multi2-4/train/images
+val: Multi2-4/valid/images

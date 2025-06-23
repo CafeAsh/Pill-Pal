@@ -1,0 +1,92 @@
+{
+    "bin data": {
+        "medication 1": 1
+    },
+    "doses": {
+        "1": [
+            [
+                "Tylenol",
+                1
+            ],
+            [
+                "MultiVitamin",
+                1
+            ],
+            [
+                "Iron",
+                1
+            ]
+        ],
+        "2": [
+            [
+                "Cordyceps",
+                1
+            ],
+            [
+                "Aleve",
+                1
+            ],
+            [
+                "Allertec",
+                1
+            ]
+        ],
+        "3": [
+            [
+                "Zinc",
+                25
+            ],
+            [
+                "Cordyceps",
+                25
+            ]
+        ]
+    },
+    "last_id": 3,
+    "history": [
+        [
+            "Dose 1 taken at Wed, May 14 3:25 PM",
+            false
+        ],
+        [
+            "Dose 1 taken at Wed, May 14 3:28 PM",
+            false
+        ],
+        [
+            "Dose 1 taken at Wed, May 14 3:29 PM",
+            false
+        ],
+        [
+            "Dose 2 taken at Thu, May 15 10:48 AM",
+            false
+        ],
+        [
+            "Dose 1 taken at Thu, May 15 11:00 AM",
+            false
+        ],
+        [
+            "Dose 1 taken at Thu, May 15 11:33 AM",
+            false
+        ],
+        [
+            "Dose 1 taken at Thu, May 15 12:36 PM",
+            false
+        ],
+        [
+            "Dose 3 taken at Thu, May 15 1:36 PM",
+            false
+        ],
+        [
+            "Dose 3 taken at Thu, May 15 1:54 PM",
+            false
+        ],
+        [
+            "Dose 3 taken at Thu, May 15 2:25 PM",
+            false
+        ],
+        [
+            "Dose 3 taken at Thu, May 15 3:24 PM",
+            false
+        ]
+    ]
+}
